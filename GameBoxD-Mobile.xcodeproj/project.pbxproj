@@ -18,6 +18,7 @@
 		182526752F620514004042F3 /* LogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266A2F620514004042F3 /* LogView.swift */; };
 		182526762F620514004042F3 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266B2F620514004042F3 /* SearchView.swift */; };
 		182526772F620514004042F3 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266C2F620514004042F3 /* FeedView.swift */; };
+		182526792F62072F004042F3 /* ViewnoErro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526782F62072F004042F3 /* ViewnoErro.swift */; };
 		18ECB2182F62036800651BE6 /* GameBoxD_MobileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */; };
 		18ECB21A2F62036800651BE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2192F62036800651BE6 /* ContentView.swift */; };
 		18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18ECB21B2F62036A00651BE6 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 		1825266A2F620514004042F3 /* LogView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LogView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /LogView.swift"; sourceTree = "<group>"; };
 		1825266B2F620514004042F3 /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /SearchView.swift"; sourceTree = "<group>"; };
 		1825266C2F620514004042F3 /* FeedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeedView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /FeedView.swift"; sourceTree = "<group>"; };
+		182526782F62072F004042F3 /* ViewnoErro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewnoErro.swift; sourceTree = "<group>"; };
 		18ECB2142F62036800651BE6 /* GameBoxD-Mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GameBoxD-Mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameBoxD_MobileApp.swift; sourceTree = "<group>"; };
 		18ECB2192F62036800651BE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				1825266B2F620514004042F3 /* SearchView.swift */,
 				182526672F620514004042F3 /* SettingsView.swift */,
 				182526682F620514004042F3 /* TabsView.swift */,
+				182526782F62072F004042F3 /* ViewnoErro.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				182526702F620514004042F3 /* HomeView.swift in Sources */,
 				182526712F620514004042F3 /* RegisterPageView.swift in Sources */,
 				182526732F620514004042F3 /* TabsView.swift in Sources */,
+				182526792F62072F004042F3 /* ViewnoErro.swift in Sources */,
 				1825266F2F620514004042F3 /* LoginView.swift in Sources */,
 				182526772F620514004042F3 /* FeedView.swift in Sources */,
 				182526752F620514004042F3 /* LogView.swift in Sources */,
