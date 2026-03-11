@@ -1,0 +1,10 @@
+# User-specific settings (Window positions, open files, breakpoints)
+xcuserdata/
+
+# Local build data
+DerivedData/
+build/
+
+# macOS system files
+.DS_Store
+
