@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18DF2F3B2F621178006B394F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 18DF2F3A2F621178006B394F /* .gitignore */; };
 		18ECB2182F62036800651BE6 /* GameBoxD_MobileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */; };
 		18ECB21A2F62036800651BE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2192F62036800651BE6 /* ContentView.swift */; };
 		18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18ECB21B2F62036A00651BE6 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18DF2F3A2F621178006B394F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		18ECB2142F62036800651BE6 /* GameBoxD-Mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GameBoxD-Mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameBoxD_MobileApp.swift; sourceTree = "<group>"; };
 		18ECB2192F62036800651BE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		18ECB20B2F62036800651BE6 = {
 			isa = PBXGroup;
 			children = (
+				18DF2F3A2F621178006B394F /* .gitignore */,
 				18ECB2162F62036800651BE6 /* GameBoxD-Mobile */,
 				18ECB2152F62036800651BE6 /* Products */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18ECB2202F62036A00651BE6 /* Preview Assets.xcassets in Resources */,
+				18DF2F3B2F621178006B394F /* .gitignore in Resources */,
 				18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
