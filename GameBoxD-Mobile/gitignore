@@ -4,6 +4,8 @@
 
 ## User settings
 xcuserdata/
+**/*.xcuserdata/
+*.xcuserstate
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
@@ -58,4 +60,7 @@ fastlane/test_output
 # Code Injection
 iOSInjectionProject/
 
+# Xcode project files
 *.xcodeproj/
+*.xcodeproj/project.pbxproj
+*.xcodeproj/project.xcworkspace/
