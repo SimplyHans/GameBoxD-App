@@ -52,6 +52,8 @@
 		18ECB2162F62036800651BE6 /* GameBoxD-Mobile */ = {
 			isa = PBXGroup;
 			children = (
+				18ECB2272F6203B100651BE6 /* views */,
+				18ECB2262F6203AC00651BE6 /* components */,
 				18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */,
 				18ECB2192F62036800651BE6 /* ContentView.swift */,
 				18ECB21B2F62036A00651BE6 /* Assets.xcassets */,
@@ -67,6 +69,20 @@
 				18ECB21F2F62036A00651BE6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		18ECB2262F6203AC00651BE6 /* components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
+		18ECB2272F6203B100651BE6 /* views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
