@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1825266D2F620514004042F3 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526622F620514004042F3 /* NotificationsView.swift */; };
+		1825266E2F620514004042F3 /* ProfileView 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526632F620514004042F3 /* ProfileView 2.swift */; };
+		1825266F2F620514004042F3 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526642F620514004042F3 /* LoginView.swift */; };
+		182526702F620514004042F3 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526652F620514004042F3 /* HomeView.swift */; };
+		182526712F620514004042F3 /* RegisterPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526662F620514004042F3 /* RegisterPageView.swift */; };
+		182526722F620514004042F3 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526672F620514004042F3 /* SettingsView.swift */; };
+		182526732F620514004042F3 /* TabsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526682F620514004042F3 /* TabsView.swift */; };
+		182526742F620514004042F3 /* EditProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526692F620514004042F3 /* EditProfileView.swift */; };
+		182526752F620514004042F3 /* LogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266A2F620514004042F3 /* LogView.swift */; };
+		182526762F620514004042F3 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266B2F620514004042F3 /* SearchView.swift */; };
+		182526772F620514004042F3 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266C2F620514004042F3 /* FeedView.swift */; };
+		182526792F62072F004042F3 /* ViewnoErro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526782F62072F004042F3 /* ViewnoErro.swift */; };
+		1885B8762F620E37004770CC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1885B8752F620E37004770CC /* .gitignore */; };
 		18ECB2182F62036800651BE6 /* GameBoxD_MobileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */; };
 		18ECB21A2F62036800651BE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2192F62036800651BE6 /* ContentView.swift */; };
 		18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18ECB21B2F62036A00651BE6 /* Assets.xcassets */; };
@@ -14,6 +27,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		182526622F620514004042F3 /* NotificationsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NotificationsView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /NotificationsView.swift"; sourceTree = "<group>"; };
+		182526632F620514004042F3 /* ProfileView 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ProfileView 2.swift"; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /ProfileView 2.swift"; sourceTree = "<group>"; };
+		182526642F620514004042F3 /* LoginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /LoginView.swift"; sourceTree = "<group>"; };
+		182526652F620514004042F3 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /HomeView.swift"; sourceTree = "<group>"; };
+		182526662F620514004042F3 /* RegisterPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RegisterPageView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /RegisterPageView.swift"; sourceTree = "<group>"; };
+		182526672F620514004042F3 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /SettingsView.swift"; sourceTree = "<group>"; };
+		182526682F620514004042F3 /* TabsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TabsView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /TabsView.swift"; sourceTree = "<group>"; };
+		182526692F620514004042F3 /* EditProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EditProfileView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /EditProfileView.swift"; sourceTree = "<group>"; };
+		1825266A2F620514004042F3 /* LogView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LogView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /LogView.swift"; sourceTree = "<group>"; };
+		1825266B2F620514004042F3 /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /SearchView.swift"; sourceTree = "<group>"; };
+		1825266C2F620514004042F3 /* FeedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeedView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /FeedView.swift"; sourceTree = "<group>"; };
+		182526782F62072F004042F3 /* ViewnoErro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewnoErro.swift; sourceTree = "<group>"; };
+		1885B8752F620E37004770CC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		18ECB2142F62036800651BE6 /* GameBoxD-Mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GameBoxD-Mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameBoxD_MobileApp.swift; sourceTree = "<group>"; };
 		18ECB2192F62036800651BE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,9 +59,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		182526612F6204EA004042F3 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				182526692F620514004042F3 /* EditProfileView.swift */,
+				1825266C2F620514004042F3 /* FeedView.swift */,
+				182526652F620514004042F3 /* HomeView.swift */,
+				182526642F620514004042F3 /* LoginView.swift */,
+				1825266A2F620514004042F3 /* LogView.swift */,
+				182526622F620514004042F3 /* NotificationsView.swift */,
+				182526632F620514004042F3 /* ProfileView 2.swift */,
+				182526662F620514004042F3 /* RegisterPageView.swift */,
+				1825266B2F620514004042F3 /* SearchView.swift */,
+				182526672F620514004042F3 /* SettingsView.swift */,
+				182526682F620514004042F3 /* TabsView.swift */,
+				182526782F62072F004042F3 /* ViewnoErro.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
 		18ECB20B2F62036800651BE6 = {
 			isa = PBXGroup;
 			children = (
+				1885B8752F620E37004770CC /* .gitignore */,
 				18ECB2162F62036800651BE6 /* GameBoxD-Mobile */,
 				18ECB2152F62036800651BE6 /* Products */,
 			);
@@ -52,8 +98,7 @@
 		18ECB2162F62036800651BE6 /* GameBoxD-Mobile */ = {
 			isa = PBXGroup;
 			children = (
-				18ECB2272F6203B100651BE6 /* views */,
-				18ECB2262F6203AC00651BE6 /* components */,
+				182526612F6204EA004042F3 /* views */,
 				18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */,
 				18ECB2192F62036800651BE6 /* ContentView.swift */,
 				18ECB21B2F62036A00651BE6 /* Assets.xcassets */,
@@ -69,20 +114,6 @@
 				18ECB21F2F62036A00651BE6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		18ECB2262F6203AC00651BE6 /* components */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = components;
-			sourceTree = "<group>";
-		};
-		18ECB2272F6203B100651BE6 /* views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,6 +174,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1885B8762F620E37004770CC /* .gitignore in Resources */,
 				18ECB2202F62036A00651BE6 /* Preview Assets.xcassets in Resources */,
 				18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */,
 			);
@@ -155,8 +187,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182526742F620514004042F3 /* EditProfileView.swift in Sources */,
+				1825266E2F620514004042F3 /* ProfileView 2.swift in Sources */,
+				182526722F620514004042F3 /* SettingsView.swift in Sources */,
 				18ECB21A2F62036800651BE6 /* ContentView.swift in Sources */,
+				182526762F620514004042F3 /* SearchView.swift in Sources */,
 				18ECB2182F62036800651BE6 /* GameBoxD_MobileApp.swift in Sources */,
+				182526702F620514004042F3 /* HomeView.swift in Sources */,
+				182526712F620514004042F3 /* RegisterPageView.swift in Sources */,
+				182526732F620514004042F3 /* TabsView.swift in Sources */,
+				182526792F62072F004042F3 /* ViewnoErro.swift in Sources */,
+				1825266F2F620514004042F3 /* LoginView.swift in Sources */,
+				182526772F620514004042F3 /* FeedView.swift in Sources */,
+				182526752F620514004042F3 /* LogView.swift in Sources */,
+				1825266D2F620514004042F3 /* NotificationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
