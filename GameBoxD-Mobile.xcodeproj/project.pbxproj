@@ -19,7 +19,7 @@
 		182526762F620514004042F3 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266B2F620514004042F3 /* SearchView.swift */; };
 		182526772F620514004042F3 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825266C2F620514004042F3 /* FeedView.swift */; };
 		182526792F62072F004042F3 /* ViewnoErro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182526782F62072F004042F3 /* ViewnoErro.swift */; };
-		1885B8742F620AB5004770CC /* gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1885B8732F620AB5004770CC /* gitignore */; };
+		1885B8762F620E37004770CC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1885B8752F620E37004770CC /* .gitignore */; };
 		18ECB2182F62036800651BE6 /* GameBoxD_MobileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */; };
 		18ECB21A2F62036800651BE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ECB2192F62036800651BE6 /* ContentView.swift */; };
 		18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18ECB21B2F62036A00651BE6 /* Assets.xcassets */; };
@@ -39,7 +39,7 @@
 		1825266B2F620514004042F3 /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /SearchView.swift"; sourceTree = "<group>"; };
 		1825266C2F620514004042F3 /* FeedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeedView.swift; path = "../../../../GameBoxd-Mobile/GameBoxd/GameBoxd/views /FeedView.swift"; sourceTree = "<group>"; };
 		182526782F62072F004042F3 /* ViewnoErro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewnoErro.swift; sourceTree = "<group>"; };
-		1885B8732F620AB5004770CC /* gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = gitignore; sourceTree = "<group>"; };
+		1885B8752F620E37004770CC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		18ECB2142F62036800651BE6 /* GameBoxD-Mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GameBoxD-Mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18ECB2172F62036800651BE6 /* GameBoxD_MobileApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameBoxD_MobileApp.swift; sourceTree = "<group>"; };
 		18ECB2192F62036800651BE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -81,6 +81,7 @@
 		18ECB20B2F62036800651BE6 = {
 			isa = PBXGroup;
 			children = (
+				1885B8752F620E37004770CC /* .gitignore */,
 				18ECB2162F62036800651BE6 /* GameBoxD-Mobile */,
 				18ECB2152F62036800651BE6 /* Products */,
 			);
@@ -103,7 +104,6 @@
 				18ECB21B2F62036A00651BE6 /* Assets.xcassets */,
 				18ECB21D2F62036A00651BE6 /* GameBoxD_Mobile.entitlements */,
 				18ECB21E2F62036A00651BE6 /* Preview Content */,
-				1885B8732F620AB5004770CC /* gitignore */,
 			);
 			path = "GameBoxD-Mobile";
 			sourceTree = "<group>";
@@ -174,8 +174,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1885B8762F620E37004770CC /* .gitignore in Resources */,
 				18ECB2202F62036A00651BE6 /* Preview Assets.xcassets in Resources */,
-				1885B8742F620AB5004770CC /* gitignore in Resources */,
 				18ECB21C2F62036A00651BE6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
